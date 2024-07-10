@@ -1,0 +1,17 @@
+.vscode
+.idea
+.DS_Store
+
+node_modules
+dist
+logs
+*.log
+*.local
+*.dev
+pnpm-lock.yaml
+package-lock.json
+
+
+
+
+
