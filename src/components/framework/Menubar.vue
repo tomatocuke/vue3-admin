@@ -32,8 +32,8 @@
 
 <script>
 import router from '@/router/cache'
-import auth from '@/config/auth'
-import global from '@/config/global'
+import auth from '@/util/auth'
+import global from '@/util/global'
 
 export default {
   name: 'menubar',

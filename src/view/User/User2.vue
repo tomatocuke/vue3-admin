@@ -4,9 +4,9 @@
 
 
 <script>
-import Mix from '@/components/box/Mix.vue'
-import api from '@/config/api'
-import auth from '@/config/auth'
+import Mix from '@/components/box/mix.vue'
+import api from '@/util/api'
+import auth from '@/util/auth'
 
 
 const gender = {1: '男', 2: '女', 3: '沃尔玛塑料袋'}

@@ -50,9 +50,9 @@
 <script>
 
 import avatar from '@/assets/img/avatar.png'
-import api from '@/config/api'
+import api from '@/util/api'
 import storage from '@/assets/js/storage'
-import auth from '@/config/auth'
+import auth from '@/util/auth'
 
 export default {
   props: {

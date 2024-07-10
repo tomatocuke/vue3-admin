@@ -32,7 +32,7 @@ import Loading from '@/components/ui/loading.vue'
 import Menubar from '@/components/framework/Menubar.vue'
 import Headbar from '@/components/framework/Headbar.vue'
 import MenuTab from '@/components/framework/Menutab.vue'
-import auth from '@/config/auth'
+import auth from '@/util/auth'
 
 export default {
   name: "app",

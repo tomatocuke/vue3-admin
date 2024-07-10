@@ -19,7 +19,7 @@
 
 <script>
 
-import global from '@/config/global'
+import global from '@/util/global'
 import router from '@/router/cache'
 
 export default {

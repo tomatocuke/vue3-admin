@@ -1,6 +1,6 @@
 
 import { createRouter,createWebHistory } from 'vue-router'
-import auth from '@/config/auth';
+import auth from '@/util/auth';
 
 const routes = [
   // 未知页面跳转到主页

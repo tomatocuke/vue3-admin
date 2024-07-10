@@ -4,8 +4,8 @@
 
 <script>
 import Mix from '@/components/box/mix.vue'
-import api from '@/config/api'
-import auth from '@/config/auth'
+import api from '@/util/api'
+import auth from '@/util/auth'
 
 
 const allpermissions = [{id: 0, name: '全部'}]

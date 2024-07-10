@@ -11,7 +11,7 @@
 
 <script>
 import Echarts from '@/components/ui/echarts.vue'
-import api from '@/config/api'
+import api from '@/util/api'
 
 const echartOption = {
   title: {

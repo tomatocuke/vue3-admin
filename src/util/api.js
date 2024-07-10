@@ -52,7 +52,7 @@ const Fake = async (req, data, time = 100) => {
 
 const loginData = {
   code: 0,
-  msg: "",
+  msg: "登录成功，10分钟后过期",
   data: {
     token: {
       token: '123456',

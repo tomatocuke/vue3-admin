@@ -124,7 +124,7 @@ import Dialog from '@/components/ui/dialog.vue'
 import storage from '@/assets/js/storage'
 import Form from '@/components/box/form.vue'
 import Store from '@/components/box/store.vue'
-import api from '@/config/api'
+import api from '@/util/api'
 
 
 // Dom元素，需要在mounted里查找

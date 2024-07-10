@@ -35,7 +35,7 @@
 <script>
 
 import { reactive, toRefs, watch } from 'vue'
-import api from '@/config/api'
+import api from '@/util/api'
 import Loading from '@/components/ui/loading.vue'
 
 const defaultConf = {

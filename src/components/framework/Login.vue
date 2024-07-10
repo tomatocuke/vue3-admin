@@ -15,7 +15,7 @@
 </template>
 
 <script>
-import api from '@/config/api'
+import api from '@/util/api'
 import storage from '@/assets/js/storage'
 
 export default {
